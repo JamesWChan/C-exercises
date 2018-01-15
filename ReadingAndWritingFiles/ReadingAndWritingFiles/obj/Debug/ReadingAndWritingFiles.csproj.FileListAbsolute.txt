@@ -1,0 +1,7 @@
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\bin\Debug\ReadingAndWritingFiles.exe.config
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\bin\Debug\ReadingAndWritingFiles.exe
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\bin\Debug\ReadingAndWritingFiles.pdb
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\obj\Debug\ReadingAndWritingFiles.csprojResolveAssemblyReference.cache
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\obj\Debug\ReadingAndWritingFiles.csproj.CoreCompileInputs.cache
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\obj\Debug\ReadingAndWritingFiles.exe
+C:\Users\a-jchan\source\repos\ReadingAndWritingFiles\ReadingAndWritingFiles\obj\Debug\ReadingAndWritingFiles.pdb
